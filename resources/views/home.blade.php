@@ -27,6 +27,7 @@
                     </div>
                 </div>
             </div>
+            <home-component></home-component>
             <!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
